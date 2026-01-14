@@ -11,3 +11,5 @@ wheels/
 
 # Other
 *.code-workspace
+.vscode
+test.txt
